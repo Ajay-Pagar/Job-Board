@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Wrapper = styled.div`
   position: relative;
@@ -7,6 +7,7 @@ const Wrapper = styled.div`
     align-items: center;
     justify-content: center;
     gap: 0 0.5rem;
+    font-size: medium;
   }
   .img {
     width: 25px;
